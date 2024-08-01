@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="path/to/your/image.png" alt="Header Image" style="width:100%; max-width:800px;">
+    <img src="./githubbackground.png" alt="Header Image" style="width:100%; max-width:800px;">
     <div style="position: relative; top: -150px; color: white; font-size: 24px; font-weight: bold;">
         Hi, I'm Dinesh <br>
     </div>
