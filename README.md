@@ -9,9 +9,17 @@
 </p>
 
 ## Skills 
-<div>
- 
-</div>
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,react,nextjs,js,r,html,css,dotnet)](https://skillicons.dev)
+### Fronted
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,tailwind)](https://skillicons.dev)
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+### Web Frameworks
+[![My Skills](https://skillicons.dev/icons?i=flask,django)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=eclipse,pycharm,git,vscode,visualstudio,androidstudio)](https://skillicons.dev)
+
 
 ## Github Stats 🧑‍💻📈
 
@@ -26,6 +34,5 @@
 </p> 
 
 ## Connect With Me! 🤝
-<div>
- 
-</div>
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/drkarnat/)
+
